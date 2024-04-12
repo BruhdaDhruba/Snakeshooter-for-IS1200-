@@ -238,7 +238,7 @@ void gen_snake(){
 }
 
 
-/*Written by Fredrik Lundström and Michell Dib 2021, modified by Turja Das 2024*/
+/*Written by Fredrik Lundström and Michell Dib 2021, modified by Dhruba Das 2024*/
 void gameOver(){
     char score2[] = "X";
     score2[0] = score + '0'; //Here we make an integer to a string
