@@ -1,4 +1,5 @@
 ### Making & Installation
+*Note: the game is made specifically to be run on the pic32 Microcontroller with UNO32 Basic I/O Shield*
 
 To compile the code, you need the following:
 * The files (simply download the zip by clicking on code and "Download ZIP")
