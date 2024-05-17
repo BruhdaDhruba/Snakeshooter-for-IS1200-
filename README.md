@@ -6,7 +6,7 @@ To compile the code, you need the following:
 * MCB32 toolchain
 * A pic32 board connected to the computer via USB
 
-Enter the MCB32 environment, navigate to the extracted folder for Snakeshooter2 and execute the following commands:
+Enter the MCB32 environment, navigate to the extracted folder for "Snakeshooter2" and execute the following commands:
 
 The first command is for compiling the code. Here, you'll see if you got any errors:
 ```
