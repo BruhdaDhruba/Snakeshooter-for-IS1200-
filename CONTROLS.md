@@ -1,4 +1,4 @@
-#Controls are listed as follows:
+###Controls are listed as follows:
 
 *Button 1 is to shoot the dart
 *Buttons 2 and 3 are to move up and down respectively
