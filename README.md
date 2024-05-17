@@ -18,6 +18,6 @@ The second command will install the compiled files on the chip kit:
 make install;
 ```
 
-The game should now start right away, as a menu is not included.
+The game should now start right away.
 
 Victory screen is shown if you manage to kill all 5 snakes; otherwise it is game over if a snake touches the gun.
