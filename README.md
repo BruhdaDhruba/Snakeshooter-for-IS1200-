@@ -8,12 +8,12 @@ To compile the code, you need the following:
 
 Enter the MCB32 environment, navigate to the extracted folder for "Snakeshooter2" and execute the following commands:
 
-The first command is for compiling the code. Here, you'll see if you got any errors:
+This command is for compiling the code. All errors will be displayed here:
 ```
 make;
 ```
 
-The second command will install the compiled files on the chip kit:
+This command is for installing the compiled files:
 ```
 make install;
 ```
