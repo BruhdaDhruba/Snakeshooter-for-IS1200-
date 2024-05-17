@@ -12,12 +12,12 @@ Enter the MCB32 environment, navigate to the extracted folder for "Snakeshooter2
 
 This command is for compiling the code. All errors will be displayed here:
 ```
-make;
+make
 ```
 
 This command is for installing the compiled files:
 ```
-make install;
+make install
 ```
 
 The game should now start right away.
