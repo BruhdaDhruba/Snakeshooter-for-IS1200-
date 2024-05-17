@@ -1,5 +1,5 @@
 ### Making & Installation
-*Note: the game is made specifically to be run on the pic32 Microcontroller with UNO32 Basic I/O Shield*
+*NOTE: the game is made specifically to be run on the pic32 Microcontroller with UNO32 Basic I/O Shield*
 
 To compile the code, you need the following:
 * The files (simply download the zip by clicking on code and "Download ZIP")
@@ -7,6 +7,7 @@ To compile the code, you need the following:
 * A pic32 board connected to the computer via USB
 
 Enter the MCB32 environment, navigate to the extracted folder for "Snakeshooter2" and execute the following commands:
+*NOTE: Make sure to read the readme.rtf file in Snakeshooter2 folder before executing the following commands*
 
 This command is for compiling the code. All errors will be displayed here:
 ```
