@@ -1,7 +1,7 @@
 ### Making & Installation
 
 To compile the code, you need the following:
-* The files (simply download the Snakeshooter2 file)
+* The files (simply download the zip by clicking on code and "Download ZIP file")
 * MCB32 toolchain
 * A pic32 board connected to the computer via USB
 
